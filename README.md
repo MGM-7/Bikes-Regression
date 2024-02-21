@@ -1,3 +1,3 @@
-#  Bikes profit Prediction
+#  Bikes Profit Prediction
 
-Machine learning model to predict Bikes profit
+Machine learning model to predict bikes profit
